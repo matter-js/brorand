@@ -1,4 +1,6 @@
-# Brorand
+# @matter.js/Brorand
+
+This is a frk of the original brorand adjusted to always use global.crypto without the checks and is used in matter.js react native builds.
 
 #### LICENSE
 

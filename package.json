@@ -1,5 +1,5 @@
 {
-  "name": "brorand",
+  "name": "@matter.js/brorand",
   "version": "1.1.0",
   "description": "Random number generator for browsers and node.js",
   "main": "index.js",
@@ -27,5 +27,8 @@
   },
   "browser": {
     "crypto": false
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
